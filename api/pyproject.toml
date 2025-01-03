@@ -1,0 +1,9 @@
+[project]
+name = "multi-api"
+version = "0.1.0"
+description = "A multiplataform task manager to MY personal use"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "fastapi[standard]>=0.115.6",
+]
